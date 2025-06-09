@@ -19,8 +19,7 @@ namespace ContactList
 
         private void btnThemLienHe_Click(object sender, EventArgs e)
         {
-            AddContactForm addContactForm = new AddContactForm();
-            addContactForm.ShowDialog(); // Hiển thị dưới dạng dialog modal
+           
         }
     }
 }
